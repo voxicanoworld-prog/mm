@@ -1,0 +1,4 @@
+{
+  "name": "Copy of React Crash Game",
+  "description": "A web-based implementation of the popular 'Crash' game, where players bet on an ever-increasing multiplier and must cash out before it crashes. This application is a front-end simulation built with React and Tailwind CSS."
+}
